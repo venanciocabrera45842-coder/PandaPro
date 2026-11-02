@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Panda Pro</string>
+    <string name="a11y_desc">Panda Pro necesita este permiso para tocar la pantalla por ti (autoclick y macros).</string>
+</resources>
